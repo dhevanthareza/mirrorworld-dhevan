@@ -1,11 +1,12 @@
 {
   "collections": [
-    "Please enter your Collection ID"
+    "FsL7KM28KCh25mjSbneTvs3TF9LSrS6ewfxAxHDGTsqw",
+    "HwiWiybah9MK6BzFiMWn7fJmatEGvHmQ3y1wuA9KWkxN"
   ],
-  "xApiKey": "Please enter your API Key",
-  "serviceFee": "Please enter your service fee (Recommended 4.25)",
-  "currencyOption": "Please enter your payment token",
-  "name": "Please enter your storefront name",
-  "logo": "Please enter your logo image URL",
-  "network": "Please enter your selected network "
+  "network": "devnet",
+  "xApiKey": "mw_6nX0A9OwylrAlnnb41JTkWNhLxNbBJEId4M",
+  "serviceFee": 4.25,
+  "currencyOption": "SOL",
+  "name": "Dev SHOPII",
+  "logo": "https://collections.mirrorworld.fun/1677933432728-1677931928401-1675346196114-uNe52SnC1y.png"
 }
